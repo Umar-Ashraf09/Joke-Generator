@@ -1,7 +1,6 @@
-﻿# Joke-Generator
-https://umar-ashraf09.github.io/Joke-Generator/
+﻿# Joke Generator
 
-# Joke Generator
+[Joke Generator](https://umar-ashraf09.github.io/Joke-Generator/)
 
 A simple web application that fetches random jokes using the JokeAPI and displays them to the user.
 
@@ -12,11 +11,11 @@ A simple web application that fetches random jokes using the JokeAPI and display
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Preview
 
-<!-- Add a preview image link or GIF if available -->
+![Joke Generator](https://github.com/Umar-Ashraf09/Joke-Generator/assets/92431008/8be8ab41-2581-40d0-adb3-1f08a70160e7)
+
 
 ## Technologies Used
 
@@ -33,8 +32,7 @@ A simple web application that fetches random jokes using the JokeAPI and display
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/joke-generator.git`
-2. Open the `index.html` file in your web browser.
+1. Open the [Joke Generator](https://umar-ashraf09.github.io/Joke-Generator/) web page.
 
 Feel free to customize the application or integrate it into your projects as needed.
 
@@ -47,7 +45,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Commit your changes: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
