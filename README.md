@@ -14,7 +14,7 @@ A simple web application that fetches random jokes using the JokeAPI and display
 
 ## Preview
 
-![Joke Generator](https://github.com/Umar-Ashraf09/Joke-Generator/assets/92431008/8be8ab41-2581-40d0-adb3-1f08a70160e7)
+![Joke Generator](https://github.com/Umar-Ashraf09/Joke-Generator/assets/92431008/6508e589-2293-4d6f-822b-870628cadafe)
 
 
 ## Technologies Used
